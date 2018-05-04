@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Bo0km4n Page"
+title = "My Lazy Blog..."
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
